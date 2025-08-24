@@ -1,7 +1,10 @@
 # Chess Simulator ♟️ 
 A TypeScript-based CLI chess simulator with modular logic and test coverage. Built for clarity, extensibility..
 
+
 ---
+
+
 
 ## 📦 Setup
 ```
@@ -15,10 +18,11 @@ npm install
 ```
 npm start
 ```
+Make sure your entry point (e.g. index.ts) is configured in package.json under "main" or "scripts".
 
-## Make sure your entry point (e.g. index.ts) is configured in package.json under "main" or "scripts".
+
+## 🧪 Run Tests
 ```
-🧪 Run Tests
 npm test
 ```
 
