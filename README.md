@@ -1,4 +1,4 @@
-#♟️ Chess Simulator
+# Chess Simulator ♟️ 
 A TypeScript-based CLI chess simulator with modular logic and test coverage. Built for clarity, extensibility..
 
 ---
