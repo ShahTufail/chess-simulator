@@ -4,7 +4,8 @@ A TypeScript-based CLI chess simulator with modular logic and test coverage. Bui
 ---
 
 ## 📦 Setup
-```git clone https://github.com/your-username/chess-simulator.git
+```
+git clone https://github.com/your-username/chess-simulator.git
 cd chess-simulator
 npm install
 ```
